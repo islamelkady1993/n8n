@@ -6,6 +6,7 @@ https://github.com/islamelkady1993/n8n/blob/main/Screen%20Recording%202026-03-11
 ## 🎥 Bazooka AI Bot Demo
 
 <div align="center">
+  <h3>📺 عرض عملي للبوت (Video Demo)</h3>
   <video src="https://github.com/islamelkady1993/n8n/raw/main/Screen%20Recording%202026-03-11%20002057.mp4" width="100%" controls>
     Your browser does not support the video tag.
   </video>
