@@ -12,7 +12,8 @@ https://github.com/islamelkady1993/n8n/blob/main/Screen%20Recording%202026-03-11
 
 مرحباً بك في معرض أعمالي الخاص بالأتمتة والذكاء الاصطناعي. هنا أشارك حلولاً تقنية متقدمة تم بناؤها باستخدام **n8n** لزيادة كفاءة الأعمال وربط الأنظمة بذكاء.
 
----
+---<img width="1741" height="598" alt="Screenshot 2026-03-11 222549" src="https://github.com/user-attachments/assets/93f3e91d-acd8-4c08-a7bc-b43f55caff68" />
+
 
 ## 🍗 المشروع المميز: مساعد "بازوكا" الذكي (AI Restaurant Bot)
 هذا المشروع ليس مجرد بوت عادي، بل هو نظام خدمة عملاء متكامل لمطعم "بازوكا" يعتمد على تقنية الـ **RAG** (Retrieval-Augmented Generation).
