@@ -2,6 +2,7 @@
 ### 📺 عرض عملي للبوت (Video Demo)
 https://github.com/islamelkady1993/n8n/blob/main/Screen%20Recording%202026-03-11%20002057.mp4
 
+<video src="Screen Recording 2026-03-11 002057.mp4" controls="controls" style="max-width: 100%;"></video>
 مرحباً بك في معرض أعمالي الخاص بالأتمتة والذكاء الاصطناعي. هنا أشارك حلولاً تقنية متقدمة تم بناؤها باستخدام **n8n** لزيادة كفاءة الأعمال وربط الأنظمة بذكاء.
 
 ---
