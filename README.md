@@ -5,12 +5,8 @@ https://github.com/islamelkady1993/n8n/blob/main/Screen%20Recording%202026-03-11
 
 ## 🎥 Bazooka AI Bot Demo
 
-<div align="center">
-  <h3>📺 عرض عملي للبوت (Video Demo)</h3>
-  <video src="https://github.com/islamelkady1993/n8n/raw/main/Screen%20Recording%202026-03-11%20002057.mp4" width="100%" controls>
-    Your browser does not support the video tag.
-  </video>
-</div>
+<video src="https://github.com/islamelkady1993/n8n/raw/main/Screen%20Recording%202026-03-11%20002057.mp4" controls="controls" style="max-width: 100%;">
+</video>
 مرحباً بك في معرض أعمالي الخاص بالأتمتة والذكاء الاصطناعي. هنا أشارك حلولاً تقنية متقدمة تم بناؤها باستخدام **n8n** لزيادة كفاءة الأعمال وربط الأنظمة بذكاء.
 
 ---
