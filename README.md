@@ -4,6 +4,7 @@ https://github.com/islamelkady1993/n8n/blob/main/Screen%20Recording%202026-03-11
 
 
 ## 🎥 Bazooka AI Bot Demo
+<img width="1676" height="944" alt="Screenshot 2026-03-10 235327" src="https://github.com/user-attachments/assets/638a921e-16d1-43e9-b322-0369a715de72" />
 
 <video src="https://github.com/islamelkady1993/n8n/raw/main/Screen%20Recording%202026-03-11%20002057.mp4" controls="controls" style="max-width: 100%;">
 </video>
