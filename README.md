@@ -1,4 +1,4 @@
-# 🚀 n8n Automation & AI Portfolio
+# 🚀 n8n Automation & AI chatbot
 ### 📺 عرض عملي للبوت (Video Demo)
 https://github.com/islamelkady1993/n8n/blob/main/Screen%20Recording%202026-03-11%20002057.mp4
 
